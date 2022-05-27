@@ -1,0 +1,52 @@
+{
+    "datatype": "UInt16LE",
+    "format": "NIfTI-1.1 (GZip compressed)",
+    "intensity_offset": 0.0,
+    "intensity_scale": 1.0,
+    "keyval": {
+        "comments": "3T 3D IR\\GR TR=19",
+        "mrtrix_version": "3.0.2"
+    },
+    "name": "anon_struct.nii.gz",
+    "size": [
+        384,
+        512,
+        176
+    ],
+    "spacing": [
+        0.44921875,
+        0.44921875,
+        0.899999976158142
+    ],
+    "strides": [
+        -1,
+        2,
+        3
+    ],
+    "transform": [
+        [
+            1.0,
+            0.0,
+            0.0,
+            -85.80078125
+        ],
+        [
+            -0.0,
+            1.0,
+            0.0,
+            -124.671264648438
+        ],
+        [
+            -0.0,
+            0.0,
+            1.0,
+            -96.9668655395508
+        ],
+        [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    ]
+}
