@@ -1,55 +1,57 @@
 {
-    "datatype": "Int16LE",
-    "format": "NIfTI-1.1 (GZip compressed)",
-    "intensity_offset": 0.0,
-    "intensity_scale": 0.0827356800436974,
-    "keyval": {
-        "comments": "4D image",
-        "mrtrix_version": "3.0.2"
-    },
-    "name": "func.nii.gz",
-    "size": [
-        64,
-        64,
-        34,
-        1810
-    ],
-    "spacing": [
-        3.0,
-        3.0,
-        3.74999976158142,
-        0.0
-    ],
-    "strides": [
-        -1,
-        2,
-        3,
-        4
-    ],
-    "transform": [
-        [
-            1.0,
-            0.0,
-            0.0,
-            -86.2530136108398
-        ],
-        [
-            -0.0,
-            0.91354545297097,
-            -0.406736645482835,
-            -94.2025375366211
-        ],
-        [
-            -0.0,
-            0.406736653568454,
-            0.91354545657092,
-            -115.267791748047
-        ],
-        [
-            0.0,
-            0.0,
-            0.0,
-            1.0
-        ]
-    ]
+  "Manufacturer": "SIEMENS",
+  "ManufacturersModelName": "Allegra",
+  "DeviceSerialNumber": "CRCMRI",
+  "StationName": "MRC20104",
+  "SoftwareVersions": "syngo MR A35 4VA35A",
+  "MagneticFieldStrength": 3,
+  "InstitutionName": "crc",
+  "InstitutionAddress": "B30Av 6 Aout, Liege, Brussels, 4000, BE",
+  "MRAcquisitionType": "2D",
+  "ScanningSequence": "SE\\EP",
+  "SequenceVariant": "SK\\SP",
+  "SequenceName": "mEPIv04",
+  "ScanOptions": "FS",
+  "datatype": "func",
+  "RepetitionTime": 2.04,
+  "EchoTime": 0.03,
+  "FlipAngle": 90,
+  "SliceThickness": 3,
+  "SliceTiming": [
+    0.0,
+    0.06,
+    0.12,
+    0.18,
+    0.24,
+    0.3,
+    0.36,
+    0.42,
+    0.48,
+    0.54,
+    0.6,
+    0.6599999999999999,
+    0.72,
+    0.78,
+    0.84,
+    0.8999999999999999,
+    0.96,
+    1.02,
+    1.08,
+    1.14,
+    1.2,
+    1.26,
+    1.3199999999999998,
+    1.38,
+    1.44,
+    1.5,
+    1.56,
+    1.6199999999999999,
+    1.68,
+    1.74,
+    1.7999999999999998,
+    1.8599999999999999,
+    1.92,
+    1.98
+  ],
+  "TaskName": "ExpSamp"
 }

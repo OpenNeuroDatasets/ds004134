@@ -1,52 +1,17 @@
 {
-    "datatype": "UInt16LE",
-    "format": "NIfTI-1.1 (GZip compressed)",
-    "intensity_offset": 0.0,
-    "intensity_scale": 1.0,
-    "keyval": {
-        "comments": "3T 3D IR\\GR TR=19",
-        "mrtrix_version": "3.0.2"
-    },
-    "name": "anon_struct.nii.gz",
-    "size": [
-        384,
-        512,
-        176
-    ],
-    "spacing": [
-        0.44921875,
-        0.44921875,
-        0.899999976158142
-    ],
-    "strides": [
-        -1,
-        2,
-        3
-    ],
-    "transform": [
-        [
-            1.0,
-            0.0,
-            0.0,
-            -95.2465667724609
-        ],
-        [
-            -0.0,
-            1.0,
-            0.0,
-            -116.57487487793
-        ],
-        [
-            -0.0,
-            0.0,
-            1.0,
-            -113.834335327148
-        ],
-        [
-            0.0,
-            0.0,
-            0.0,
-            1.0
-        ]
-    ]
+  "Manufacturer": "SIEMENS",
+  "ManufacturersModelName": "Allegra",
+  "DeviceSerialNumber": "CRCMRI",
+  "StationName": "MRC20104",
+  "SoftwareVersions": "syngo MR A35 4VA35A",
+  "MagneticFieldStrength": 3,
+  "InstitutionName": "crc",
+  "InstitutionAddress": "B30Av 6 Aout, Liege, Brussels, 4000, BE",
+  "MRAcquisitionType": "3D",
+  "ScanningSequence": "IR\\GR",
+  "SequenceVariant": "SP\\MP",
+  "SequenceName": "tfl3d1",
+  "ScanOptions": "IR\\WE",
+  "datatype": "anat",
+  "EchoTime": 0.00435
 }
