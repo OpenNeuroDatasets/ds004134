@@ -1,0 +1,17 @@
+{
+  "Manufacturer": "SIEMENS",
+  "ManufacturersModelName": "Allegra",
+  "DeviceSerialNumber": "CRCMRI",
+  "StationName": "MRC20104",
+  "SoftwareVersions": "syngo MR A35 4VA35A",
+  "MagneticFieldStrength": 3,
+  "InstitutionName": "crc",
+  "InstitutionAddress": "B30Av 6 Aout, Liege, Brussels, 4000, BE",
+  "MRAcquisitionType": "3D",
+  "ScanningSequence": "IR\\GR",
+  "SequenceVariant": "SP\\MP",
+  "SequenceName": "tfl3d1",
+  "ScanOptions": "IR\\WE",
+  "datatype": "anat",
+  "EchoTime": 0.00435
+}
